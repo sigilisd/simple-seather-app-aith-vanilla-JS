@@ -15,7 +15,7 @@
 ## 🚀 Ссылка на деплой
 
 Приложение опубликовано и доступно по адресу:
-👉 [https://sigilisd.github.io/simple-seather-app-aith-vanilla-JS/](https://sigilisd.github.io/simple-seather-app-aith-vanilla-JS/)
+👉 [https://sigilisd.github.io/simple-weather-app-aith-vanilla-JS/](https://sigilisd.github.io/simple-weather-app-aith-vanilla-JS/)
 
 ## 💻 Как запустить локально
 
