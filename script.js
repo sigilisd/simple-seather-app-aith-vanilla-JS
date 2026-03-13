@@ -1,5 +1,4 @@
-import key from './config.js';
-const API_KEY = key;
+import { API_KEY } from './config.js';
 
 // 1. Модуль логики (API)
 const WeatherService = {
