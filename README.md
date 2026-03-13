@@ -26,9 +26,15 @@
 2.  **Подготовьте API-ключ:**
     Зарегистрируйтесь на [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) и получите бесплатный API-ключ.
 3.  **Настройте ключ:**
-    В файле `script.js` замените `API_KEY_PLACEHOLDER` на ваш реальный ключ (или используйте файл `config.js`, если вы запускаете проект не через GitHub Actions).
+    В файле `script.js` замените `API_KEY_PLACEHOLDER` на ваш реальный ключ (или используйте мой ключ который прикреплен в отчете по практике).
 4.  **Запустите сервер:**
-    Откройте `index.html` через расширение **Live Server** в VS Code.
+    Откройте `index.html` через расширение **Live Server** в VS Code или через команду в терминале:
+    
+    ``` bash
+    python -m http.server 8000
+    ``` 
 
+## Демонстрация работы
+https://github.com/user-attachments/assets/01077b4a-d7c7-41b9-b576-d08807e23ba7
 ---
 *Проект выполнен в учебных целях.*
